@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "289561918125",
+    "project_id": "expenseprediction1",
+    "storage_bucket": "expenseprediction1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289561918125:android:0b8c3d7ba783aabf706424",
+        "android_client_info": {
+          "package_name": "com.example.expenseprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289561918125-jl08s90b6h2jggh6o4hcsu1js60qh1v3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expenseprediction",
+            "certificate_hash": "fd83d232358f832a23ffdd6d9ee5500beb9fb71e"
+          }
+        },
+        {
+          "client_id": "289561918125-i3duh1n42cd32f0t0voiqg5nbf6r67mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa8El450ZGzDqHEtbkjIJewSCve_hwJ3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289561918125-i3duh1n42cd32f0t0voiqg5nbf6r67mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
